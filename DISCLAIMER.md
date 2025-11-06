@@ -2,8 +2,8 @@
 
 **Utility Server Services Disclaimer**
 
-**Effective Date**: December 1, 2024  
-**Last Updated**: December 2024
+**Effective Date**: November 6, 2025  
+**Last Updated**: November 6, 2025
 
 ---
 
@@ -11,7 +11,9 @@
 
 **PLEASE READ THIS DISCLAIMER CAREFULLY BEFORE USING UTILITY SERVER SERVICES.**
 
-This Disclaimer sets forth important limitations on the scope of our liability and responsibility. By accessing or using Utility Server services (SPIDER, RHINO, MARLIN, Utility Client, and associated services), you acknowledge and agree to the terms of this Disclaimer.
+This Disclaimer sets forth important limitations on the scope of our liability and responsibility. By accessing or using Utility Server services (SPIDER, RHINO, MARLIN, Utility Client, and associated services) provided by **DNS Stack Private Limited** (CIN: U62099UP2025PTC223463), you acknowledge and agree to the terms of this Disclaimer.
+
+**Utility Server** is a product brand of **DNS Stack Private Limited**, a company registered in India.
 
 ---
 
@@ -653,6 +655,7 @@ For questions, concerns, or clarifications, please contact our legal team before
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: November 6, 2025*
 
-*© 2024 Utility Server. All rights reserved.*
+*© 2024-2025 DNS Stack Private Limited. All rights reserved.
+Utility Server is a product of DNS Stack Private Limited.*

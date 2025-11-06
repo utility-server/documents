@@ -2,8 +2,8 @@
 
 **Utility Server Service Level Agreement**
 
-**Effective Date**: December 1, 2024  
-**Last Updated**: December 2024
+**Effective Date**: November 6, 2025  
+**Last Updated**: November 6, 2025
 
 ---
 
@@ -11,7 +11,12 @@
 
 ### 1.1 Agreement Overview
 
-This Service Level Agreement ("SLA") defines the service commitments Utility Server makes to its customers for SPIDER, RHINO, MARLIN, and related services. This SLA is incorporated into and governed by our Terms and Conditions.
+This Service Level Agreement ("SLA") defines the service commitments DNS Stack Private Limited (operating as Utility Server) makes to its customers for SPIDER, RHINO, MARLIN, and related services. This SLA is incorporated into and governed by our Terms and Conditions.
+
+**Company**: DNS Stack Private Limited  
+**CIN**: U62099UP2025PTC223463  
+**Product Brand**: Utility Server  
+**Registered Address**: 2nd Floor, Kalkat Bhawan, Punjab Innovation Mission, Gmada Aerocity, SAS Nagar, Mohali, Punjab - 140306, India
 
 ### 1.2 Scope
 
@@ -595,8 +600,9 @@ By subscribing to Utility Server paid services, you acknowledge that:
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: November 6, 2025*
 
-*© 2024 Utility Server. All rights reserved.*
+*© 2024-2025 DNS Stack Private Limited. All rights reserved.
+Utility Server is a product of DNS Stack Private Limited.*
 
 *This SLA is subject to the Terms and Conditions available at https://utility-server.com/terms*

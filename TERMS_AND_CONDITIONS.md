@@ -2,8 +2,8 @@
 
 **Utility Server Services Agreement**
 
-**Effective Date**: December 1, 2024  
-**Last Updated**: December 2024
+**Effective Date**: November 6, 2025  
+**Last Updated**: November 6, 2025
 
 ---
 
@@ -36,7 +36,25 @@
 
 ### 1.1 Agreement to Terms
 
-By accessing, registering for, or using any Utility Server services ("Services"), including SPIDER, RHINO, MARLIN, and associated tools, you ("Customer," "User," or "you") agree to be bound by these Terms and Conditions ("Terms," "Agreement"). If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to these Terms.
+**⚠️ IMPORTANT: BY REGISTERING FOR, ACCESSING, OR USING UTILITY SERVER SERVICES, YOU AUTOMATICALLY AND UNCONDITIONALLY AGREE TO:**
+- **These Terms and Conditions**
+- **Privacy Policy**
+- **Service Level Agreement (SLA)**
+- **Disclaimer**
+- **Non-Disclosure Agreement (NDA)**
+- **All other policies incorporated by reference**
+
+**Your use of the Services constitutes your acceptance of all these documents. If you do not agree, you must not use our Services.**
+
+---
+
+By accessing, registering for, or using any Utility Server services ("Services"), including SPIDER, RHINO, MARLIN, and associated tools, you ("Customer," "User," or "you") agree to be bound by these Terms and Conditions ("Terms," "Agreement"). 
+
+**Utility Server is a product of DNS Stack Private Limited**, a company incorporated in India (CIN: U62099UP2025PTC223463). References to "Utility Server," "we," "us," or "our" in these Terms refer to DNS Stack Private Limited operating the Utility Server brand and services.
+
+**Subsidiary**: Techtonic Systems Media and Research LLC (https://techtonic.systems) is a subsidiary of DNS Stack Private Limited.
+
+If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to these Terms.
 
 ### 1.2 Age Requirement
 
@@ -62,7 +80,7 @@ All such policies are integral parts of this Agreement.
 
 For purposes of this Agreement:
 
-**"Services"** means all products and services provided by Utility Server, including but not limited to SPIDER (prerendering service), RHINO (edge caching service), MARLIN (image optimization and CDN service), Utility Client (command-line tool), and associated APIs, documentation, and support.
+**"Services"** means all products and services provided by DNS Stack Private Limited under the Utility Server brand, including but not limited to SPIDER (prerendering service), RHINO (edge caching service), MARLIN (image optimization and CDN service), Utility Client (command-line tool), and associated APIs, documentation, and support.
 
 **"Content"** means any data, text, images, videos, software, or other materials uploaded, transmitted, or processed through the Services.
 
@@ -412,6 +430,14 @@ If you provide feedback, suggestions, or ideas about the Services, you grant Uti
 
 Our collection, use, and protection of personal information is governed by our Privacy Policy, which is incorporated into these Terms by reference.
 
+**Data Processing Consent**: By using Utility Server services, you explicitly consent to:
+- Our access to and processing of your **publicly available website content**
+- Caching and optimization of your public content
+- Analysis of your website performance and structure
+- Processing necessary to provide the Services
+
+**Utility Server processes ONLY publicly available data** from your website. We do not access or process any private, password-protected, or non-public information without your explicit additional authorization.
+
 ### 11.2 Data Processing
 
 Utility Server processes data solely to provide Services. We:
@@ -653,17 +679,18 @@ Before initiating formal dispute resolution, you agree to contact Utility Server
 
 ### 19.2 Governing Law
 
-These Terms are governed by the laws of [Insert Jurisdiction], without regard to conflict of law principles.
+These Terms are governed by the laws of India, without regard to conflict of law principles. The courts of Kanpur, Uttar Pradesh, India shall have exclusive jurisdiction for any disputes arising under these Terms.
 
 ### 19.3 Arbitration
 
-Any dispute arising from these Terms shall be resolved through binding arbitration in accordance with the rules of [Insert Arbitration Association], except as otherwise provided herein.
+Any dispute arising from these Terms shall be resolved through binding arbitration in accordance with the Arbitration and Conciliation Act, 1996 (India), except as otherwise provided herein.
 
 **Arbitration Terms:**
-- Location: [Insert City, State/Country]
+- Location: Mohali, Punjab, India
 - Language: English
-- Arbitrator: Single arbitrator mutually agreed upon
-- Costs: Each party bears its own costs unless otherwise awarded
+- Arbitrator: Single arbitrator mutually agreed upon, or appointed as per Indian Arbitration Act
+- Costs: Each party bears its own costs unless otherwise awarded by the arbitrator
+- Seat of Arbitration: Mohali, Punjab, India
 
 ### 19.4 Exceptions to Arbitration
 
@@ -678,7 +705,7 @@ Either party may seek injunctive relief in court for:
 
 ### 19.6 Jurisdiction
 
-For disputes not subject to arbitration, you consent to the exclusive jurisdiction of courts located in [Insert Jurisdiction].
+For disputes not subject to arbitration, you consent to the exclusive jurisdiction of courts located in Mohali, SAS Nagar, Punjab, India.
 
 ---
 
@@ -719,13 +746,16 @@ You and Utility Server are independent contractors. These Terms do not create a 
 **To You:**
 Notices will be sent to the email address associated with your Account or posted through the Services.
 
-**To Utility Server:**
+**To DNS Stack Private Limited (Utility Server):**
 Notices must be sent to:
 ```
-Utility Server
-Legal Department
-[Insert Physical Address]
+DNS Stack Private Limited
+Utility Server - Legal Department
+2nd Floor, Kalkat Bhawan, Punjab Innovation Mission, Gmada Aerocity
+SAS Nagar, Mohali, Punjab - 140306
+India
 Email: legal@utility-server.com
+Website: https://www.dnsstack.com
 ```
 
 ### 20.8 Export Compliance
@@ -776,6 +806,7 @@ BY USING UTILITY SERVER SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: November 6, 2025*
 
-*© 2024 Utility Server. All rights reserved.*
+*© 2024-2025 DNS Stack Private Limited. All rights reserved.
+Utility Server is a product of DNS Stack Private Limited.*

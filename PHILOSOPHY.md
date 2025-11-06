@@ -4,7 +4,9 @@
 
 **Empowering the web, one optimization at a time.**
 
-Utility Server exists to democratize web performance optimization, making enterprise-grade content delivery, caching, and optimization accessible to businesses of all sizes. We believe that every website, regardless of its scale, deserves to deliver lightning-fast experiences to its users.
+**Utility Server**, a product of **DNS Stack Private Limited**, exists to democratize web performance optimization, making enterprise-grade content delivery, caching, and optimization accessible to businesses of all sizes. We believe that every website, regardless of its scale, deserves to deliver lightning-fast experiences to its users.
+
+DNS Stack Private Limited is an Indian company (CIN: U62099UP2025PTC223463) committed to building world-class web performance optimization tools that empower businesses globally.
 
 ---
 
@@ -270,6 +272,19 @@ Whether you're a customer, partner, contributor, or future team member, we invit
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: November 6, 2025*
 
-*This philosophy guides every decision we make at Utility Server. It's reviewed and refined regularly to ensure we stay true to our mission while adapting to the evolving needs of the web.*
+*This philosophy guides every decision we make at DNS Stack Private Limited and our Utility Server product. It's reviewed and refined regularly to ensure we stay true to our mission while adapting to the evolving needs of the web.*
+
+---
+
+**© 2024-2025 DNS Stack Private Limited. All rights reserved.**
+
+**Utility Server** is a product of **DNS Stack Private Limited**  
+CIN: U62099UP2025PTC223463  
+Principal Office: 2nd Floor, Kalkat Bhawan, Punjab Innovation Mission, Gmada Aerocity, SAS Nagar, Mohali, Punjab - 140306, India  
+Website: https://www.dnsstack.com
+
+**Subsidiary**: Techtonic Systems Media and Research LLC (https://techtonic.systems)
+
+Last Updated: November 6, 2025

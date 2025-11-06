@@ -1,21 +1,46 @@
 # Non-Disclosure Agreement (NDA)
 
-**Mutual Non-Disclosure Agreement**
+**Utility Server - User Confidentiality Agreement**
 
-**Between**: Utility Server ("Disclosing Party") 
-**And**: ______________________ ("Receiving Party")
+---
 
-**Effective Date**: ____________________
+## ⚠️ AUTOMATIC BINDING AGREEMENT
+
+**THIS AGREEMENT IS AUTOMATICALLY BINDING ON ALL USERS OF UTILITY SERVER SERVICES**
+
+By registering for, accessing, or using any Utility Server service (SPIDER, RHINO, MARLIN, Utility Client, or APIs), you automatically become bound by this Non-Disclosure Agreement. **No separate signature or acceptance is required.**
+
+---
+
+**Provider**: DNS Stack Private Limited (operating as Utility Server)  
+**CIN**: U62099UP2025PTC223463  
+**Address**: 2nd Floor, Kalkat Bhawan, Punjab Innovation Mission, Gmada Aerocity, SAS Nagar, Mohali, Punjab - 140306, India  
+**Website**: https://www.dnsstack.com
+
+**User**: Every person or entity that registers for or uses Utility Server services
+
+**Effective Date**: Immediately upon your first use of Utility Server services
+
+---
+
+## Important User Notice
+
+✅ **You are automatically bound** by this NDA when you use Utility Server  
+✅ **No signature required** - your use constitutes acceptance  
+✅ **We process only public data** - with your explicit consent  
+✅ **You consent to data processing** when you onboard your website
 
 ---
 
 ## Recitals
 
-WHEREAS, the parties wish to explore a potential business relationship (the "Purpose");
+WHEREAS, Utility Server provides web performance optimization services including prerendering, caching, and image optimization;
 
-WHEREAS, in connection with the Purpose, each party may disclose to the other certain confidential and proprietary information;
+WHEREAS, in connection with providing Services, Utility Server may access, process, or have exposure to your website content, configurations, and technical information;
 
-WHEREAS, the parties desire to protect the confidentiality of such information;
+WHEREAS, **Utility Server processes only publicly available data from your website with your explicit consent when you onboard to our services**;
+
+WHEREAS, both parties desire to protect the confidentiality of such information;
 
 NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
 
@@ -25,11 +50,13 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements containe
 
 ### 1.1 "Confidential Information"
 
-Means any and all information disclosed by one party ("Disclosing Party") to the other party ("Receiving Party"), whether orally, in writing, electronically, visually, or by any other means, that:
+Means any and all information exchanged between Utility Server and User in connection with the Services, whether orally, in writing, electronically, visually, or by any other means, that:
 
 a) Is marked, designated, or identified as "Confidential," "Proprietary," or with a similar legend; or
 
 b) Should reasonably be understood to be confidential given the nature of the information and circumstances of disclosure.
+
+**Important**: Utility Server only processes **publicly available data** from your website. By onboarding to Utility Server services, you explicitly consent to our access and processing of your public website content for the purpose of providing optimization services.
 
 ### 1.2 Confidential Information Includes (But Is Not Limited To):
 
@@ -85,43 +112,51 @@ e) **Authorized Disclosure**: Is disclosed with the prior written consent of the
 
 ---
 
-## 2. Obligations of the Receiving Party
+## 2. Mutual Confidentiality Obligations
 
-### 2.1 Confidentiality Obligation
+### 2.1 Your Obligations (As User)
 
-The Receiving Party agrees to:
+By using Utility Server, you agree to:
 
-a) **Maintain Confidentiality**: Hold all Confidential Information in strict confidence;
+a) **Keep Confidential**: Maintain confidentiality of any proprietary information you learn about Utility Server's technology, algorithms, or business operations
 
-b) **Protect**: Use the same degree of care to protect the Confidential Information as it uses to protect its own confidential information, but in no event less than reasonable care;
+b) **No Disclosure**: Not disclose Utility Server's confidential information to unauthorized third parties
 
-c) **Limit Access**: Limit access to Confidential Information only to employees, contractors, advisors, and agents ("Representatives") who:
-   - Have a legitimate need to know for the Purpose;
-   - Have been informed of the confidential nature of the information;
-   - Are bound by confidentiality obligations at least as protective as those contained herein;
+c) **No Reverse Engineering**: Not attempt to reverse engineer, decompile, or disassemble any Utility Server technology
 
-d) **No Disclosure**: Not disclose Confidential Information to any third party without the prior written consent of the Disclosing Party;
+d) **Respect IP**: Respect Utility Server's intellectual property rights
 
-e) **No Reverse Engineering**: Not reverse engineer, disassemble, or decompile any prototypes, software, or other tangible objects that embody Confidential Information.
+### 2.2 Utility Server's Obligations
 
-### 2.2 Use Restriction
+Utility Server agrees to:
 
-The Receiving Party shall:
+a) **Process Only Public Data**: Access and process ONLY publicly available content from your website
 
-a) Use Confidential Information ONLY for the Purpose;
+b) **Explicit Consent**: Process your data only with your explicit consent when you onboard
 
-b) Not use Confidential Information for any competitive purpose;
+c) **Confidentiality**: Treat your website configurations, API keys, and account information as confidential
 
-c) Not use Confidential Information for the benefit of any third party;
+d) **Security**: Implement reasonable security measures to protect your information
 
-d) Not exploit Confidential Information for commercial gain outside the Purpose.
+e) **No Unauthorized Use**: Not use your data for any purpose beyond providing the Services
 
-### 2.3 Responsibility for Representatives
+f) **No Sale**: Never sell or share your data with third parties for their marketing purposes
 
-The Receiving Party is responsible and liable for:
-- Any breach of this Agreement by its Representatives;
-- Ensuring Representatives comply with the terms herein;
-- Any unauthorized disclosure by its Representatives.
+### 2.3 Data Processing Scope
+
+**What Utility Server Processes**:
+✅ Publicly accessible website pages  
+✅ Public images and media files  
+✅ Public HTML, CSS, JavaScript  
+✅ Publicly available meta tags and structured data  
+
+**What Utility Server Does NOT Process**:
+❌ Password-protected content  
+❌ User login credentials  
+❌ Private customer data from your website  
+❌ Payment information  
+❌ Personal identifiable information (PII) of your users  
+❌ Non-public database content
 
 ---
 
@@ -337,11 +372,11 @@ ALL CONFIDENTIAL INFORMATION IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIN
 
 ### 11.1 Governing Law
 
-This Agreement shall be governed by and construed in accordance with the laws of [Insert Jurisdiction], without regard to its conflict of law principles.
+This Agreement shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law principles.
 
 ### 11.2 Jurisdiction and Venue
 
-The parties consent to the exclusive jurisdiction of the courts located in [Insert Jurisdiction] for any disputes arising under this Agreement.
+The parties consent to the exclusive jurisdiction of the courts located in Mohali, SAS Nagar, Punjab, India for any disputes arising under this Agreement.
 
 ### 11.3 Entire Agreement
 
@@ -373,12 +408,15 @@ Electronic signatures and electronically delivered copies shall have the same fo
 
 All notices under this Agreement shall be in writing and delivered to:
 
-**For Utility Server:**
+**For DNS Stack Private Limited (Utility Server):**
 ```
-Utility Server
-Legal Department
-[Insert Address]
+DNS Stack Private Limited
+Legal Department - Utility Server
+2nd Floor, Kalkat Bhawan, Punjab Innovation Mission, Gmada Aerocity
+SAS Nagar, Mohali, Punjab - 140306
+India
 Email: legal@utility-server.com
+Website: https://www.dnsstack.com
 ```
 
 **For Receiving Party:**
@@ -444,45 +482,64 @@ If either party is a government contractor, special provisions regarding governm
 
 ---
 
-## 13. Acknowledgment and Execution
+## 13. How This Agreement Becomes Binding
 
-### 13.1 Acknowledgment
+### 13.1 Automatic and Immediate Binding
 
-By signing below, each party acknowledges that:
-- It has read and understood this Agreement;
-- It has had opportunity to seek legal counsel;
-- It enters into this Agreement voluntarily;
-- It agrees to be bound by all terms and conditions herein.
+**⚠️ NO SIGNATURE REQUIRED - YOU ARE AUTOMATICALLY BOUND BY THIS NDA**
 
-### 13.2 Execution
+This NDA automatically becomes binding on you when you:
+- ✅ Register for Utility Server account
+- ✅ Use any Utility Server service (SPIDER, RHINO, MARLIN)
+- ✅ Access Utility Server APIs
+- ✅ Onboard your website to our platform
+- ✅ Use Utility Client tool
+- ✅ Access any Utility Server documentation or resources
 
-**UTILITY SERVER**
+**Your use = Your acceptance. It's that simple.**
 
-By: _________________________________
+### 13.2 What You Acknowledge
 
-Name: _________________________________
+By using Utility Server, you automatically acknowledge and agree that:
 
-Title: _________________________________
+1. ✅ You have read and understood this NDA
+2. ✅ You accept all terms and conditions herein
+3. ✅ You explicitly consent to Utility Server processing your publicly available website content
+4. ✅ You understand we process ONLY public data
+5. ✅ You agree to maintain confidentiality of Utility Server's proprietary information
+6. ✅ This NDA is legally binding on you
+7. ✅ You have authority to agree to this NDA (if acting for a company)
 
-Date: _________________________________
+### 13.3 No Separate Acceptance Needed
+
+- ❌ No need to sign anything
+- ❌ No need to check a box
+- ❌ No need to send confirmation
+- ✅ Just use the service - you're bound
+
+### 13.4 Effective Immediately
+
+**Provider**: DNS Stack Private Limited (Utility Server)  
+**CIN**: U62099UP2025PTC223463  
+**Address**: 2nd Floor, Kalkat Bhawan, Punjab Innovation Mission, Gmada Aerocity, SAS Nagar, Mohali, Punjab - 140306, India
+
+**User**: You (when you use any Utility Server service)
+
+**Effective Date**: The moment you first use Utility Server services
+
+**Binding On**: All users - current and future
 
 ---
 
-**RECEIVING PARTY**
+## 14. Questions About This NDA
 
-Company Name: _________________________________
+If you have questions about this confidentiality agreement:
 
-By: _________________________________
+**Email**: legal@utility-server.com  
+**Website**: https://www.dnsstack.com  
+**Address**: 2nd Floor, Kalkat Bhawan, Punjab Innovation Mission, Gmada Aerocity, SAS Nagar, Mohali, Punjab - 140306, India
 
-Name: _________________________________
-
-Title: _________________________________
-
-Date: _________________________________
-
-Email: _________________________________
-
-Address: _________________________________
+**If you don't agree**: Simply don't use Utility Server services.
 
 ---
 
@@ -499,4 +556,5 @@ Email: nda@utility-server.com
 
 *This Non-Disclosure Agreement template is provided by Utility Server. Legal counsel should review before execution.*
 
-*© 2024 Utility Server. All rights reserved.*
+*© 2024-2025 DNS Stack Private Limited. All rights reserved.
+Utility Server is a product of DNS Stack Private Limited.*

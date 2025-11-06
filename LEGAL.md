@@ -2,7 +2,7 @@
 
 **Utility Server Legal Compliance and Intellectual Property**
 
-**Last Updated**: December 2024
+**Last Updated**: November 6, 2025
 
 ---
 
@@ -27,37 +27,56 @@
 
 ### 1.1 Legal Entity
 
-**Company Name**: Utility Server, LLC / Utility Server Inc. [To be specified]
+**Company Name**: DNS Stack Private Limited
 
-**Business Type**: [Limited Liability Company / Corporation]
+**Product/Service Brand**: Utility Server (SPIDER, RHINO, MARLIN)
 
-**Jurisdiction of Incorporation**: [Insert State/Country]
+**Business Type**: Private Limited Company
 
-**Registration Number**: [Insert Registration Number]
+**Jurisdiction of Incorporation**: India
+
+**Corporate Identification Number (CIN)**: U62099UP2025PTC223463
+
+**Date of Incorporation**: May 8, 2025
+
+**Company Status**: Active
 
 **Registered Office Address**:
 ```
-Utility Server
-[Insert Complete Address]
-[City, State/Province, ZIP/Postal Code]
-[Country]
+DNS Stack Private Limited
+117/N/270, Tulsi Nagar
+Naveen Nagar, Kanpur Nagar
+Uttar Pradesh - 208025
+India
 ```
 
-**Principal Place of Business**:
+**Principal Office Address**:
 ```
-Utility Server
-[Insert Complete Address]
-[City, State/Province, ZIP/Postal Code]
-[Country]
+DNS Stack Private Limited
+2nd Floor, Kalkat Bhawan
+Punjab Innovation Mission, Gmada Aerocity
+SAS Nagar, Mohali, Punjab - 140306
+India
 ```
+
+**Websites**: 
+- https://www.dnsstack.com (Primary - DNS Stack Private Limited)
+- https://techtonic.systems (Subsidiary - Techtonic Systems Media and Research LLC)
+
+**Subsidiary Companies**:
+- **Techtonic Systems Media and Research LLC** (https://techtonic.systems) - Media and research subsidiary of DNS Stack Private Limited
 
 ### 1.2 Tax Information
 
-**Tax Identification Number (TIN/EIN)**: [Insert Number]
+**Corporate Identification Number (CIN)**: U62099UP2025PTC223463
 
-**VAT/GST Registration** (if applicable): [Insert Number]
+**PAN (Permanent Account Number)**: [To be provided]
 
-**Jurisdictions where registered for tax**: [List jurisdictions]
+**GST Registration Number**: [To be provided]
+
+**Jurisdictions where registered for tax**: India
+
+**Industry Classification**: Computer Programming, Consultancy and Related Activities (NIC Code: 62099)
 
 ### 1.3 Business Licenses
 
@@ -75,24 +94,29 @@ Utility Server maintains all necessary business licenses and permits required to
 
 **Registered Trademarks**:
 
-- **UTILITY SERVER™** - Primary brand trademark
+- **DNS STACK™** - Parent company trademark (owned by DNS Stack Private Limited)
+- **UTILITY SERVER™** - Product brand trademark
 - **SPIDER™** - Prerendering service trademark
 - **RHINO™** - Edge caching service trademark
 - **MARLIN™** (also known as MERLIN™) - Image optimization service trademark
 - **Utility Client™** - CLI tool trademark
 
-**Trademark Status**: [Registered / Pending / Common Law]
+**Trademark Owner**: DNS Stack Private Limited
+
+**Trademark Status**: Common Law Rights / Pending Registration
 
 **Trademark Classes**: International Class 42 (Computer and scientific services), Class 9 (Computer software)
 
-**Jurisdictions**: United States, European Union, [Other jurisdictions]
+**Jurisdictions**: India (primary), International expansion in progress
 
 **Trademark Notice**: All trademarks, service marks, and logos used on our website and in connection with our services are either trademarks or registered trademarks of Utility Server or third parties. Unauthorized use is strictly prohibited.
 
 ### 2.2 Copyrights
 
 **Copyright Notice**:
-© 2024 Utility Server. All rights reserved.
+© 2024-2025 DNS Stack Private Limited. All rights reserved.
+
+Utility Server is a product of DNS Stack Private Limited.
 
 **Protected Works**:
 - Software and source code
@@ -675,12 +699,22 @@ For international legal requests:
 
 **Email**: legal@utility-server.com
 
-**Mail**:
+**To DNS Stack Private Limited (Utility Server):**
+
+**Contact Address**:
 ```
-Utility Server
-Legal Department
-[Insert Complete Address]
+DNS Stack Private Limited
+2nd Floor, Kalkat Bhawan
+Punjab Innovation Mission, Gmada Aerocity
+SAS Nagar, Mohali, Punjab - 140306
+India
+
+Email: legal@utility-server.com
+Website: https://www.dnsstack.com
+Subsidiary: Techtonic Systems Media and Research LLC (https://techtonic.systems)
 ```
+
+*Note: Registered office address available in Section 1.1 above for statutory reference.*
 
 ### 12.2 Specific Legal Matters
 
@@ -788,7 +822,7 @@ For any legal questions, concerns, or requests, please contact our legal team us
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: November 6, 2025*
 
 *© 2024 Utility Server. All rights reserved.*
 

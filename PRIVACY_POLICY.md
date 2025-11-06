@@ -2,8 +2,8 @@
 
 **Utility Server Privacy Policy**
 
-**Effective Date**: December 1, 2024  
-**Last Updated**: December 2024
+**Effective Date**: November 6, 2025  
+**Last Updated**: November 6, 2025
 
 ---
 
@@ -55,13 +55,35 @@ This Privacy Policy applies to information we collect through:
 
 ### 1.2 Who We Are
 
-Utility Server provides web performance optimization services, including prerendering, edge caching, and image optimization. Our services are designed to improve website speed, SEO, and user experience.
+**Utility Server** is a product brand of **DNS Stack Private Limited**, a company incorporated in India (CIN: U62099UP2025PTC223463). We provide web performance optimization services, including prerendering, edge caching, and image optimization. Our services are designed to improve website speed, SEO, and user experience.
 
-**Data Controller**: Utility Server is the data controller responsible for your personal information.
+**Data Controller**: DNS Stack Private Limited (operating as Utility Server) is the data controller responsible for your personal information.
+
+**Principal Office Address**:
+DNS Stack Private Limited
+2nd Floor, Kalkat Bhawan, Punjab Innovation Mission, Gmada Aerocity
+SAS Nagar, Mohali, Punjab - 140306, India
+
+**Subsidiary Companies**:
+- Techtonic Systems Media and Research LLC (https://techtonic.systems) - Media and research subsidiary
 
 ### 1.3 Acceptance
 
-By using our Services, you consent to the collection, use, and disclosure of your information as described in this Privacy Policy. If you do not agree, please do not use our Services.
+**⚠️ IMPORTANT: BY USING UTILITY SERVER SERVICES, YOU AUTOMATICALLY AND EXPLICITLY CONSENT TO:**
+- This Privacy Policy
+- Collection and processing of your information as described herein
+- Our access to your **publicly available website content**
+- Processing of public data for service optimization
+
+**Data We Process**: Utility Server processes **ONLY publicly available data** from your website with your explicit consent when you onboard to our services. We do not access, collect, or process:
+- Password-protected content
+- Private user data from your website visitors
+- Non-public information without explicit authorization
+- Any data beyond what is publicly accessible
+
+**Your Consent**: Registering for or using Utility Server services constitutes your explicit, informed consent to data processing as described in this policy.
+
+If you do not agree, please do not use our Services.
 
 ---
 
@@ -701,11 +723,13 @@ For privacy-related questions, concerns, or requests:
 
 **Email**: privacy@utility-server.com
 
-**Mail**:
+**For DNS Stack Private Limited (Utility Server):**
 ```
-Utility Server
-Privacy Team
-[Insert Physical Address]
+DNS Stack Private Limited
+Privacy Team - Utility Server
+2nd Floor, Kalkat Bhawan, Punjab Innovation Mission, Gmada Aerocity
+SAS Nagar, Mohali, Punjab - 140306
+India
 ```
 
 ### 13.2 Data Protection Officer
@@ -826,6 +850,7 @@ Thank you for trusting Utility Server with your web performance optimization nee
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: November 6, 2025*
 
-*© 2024 Utility Server. All rights reserved.*
+*© 2024-2025 DNS Stack Private Limited. All rights reserved.
+Utility Server is a product of DNS Stack Private Limited.*

@@ -1,12 +1,54 @@
 # Legal Documents
 
-**Utility Server Legal & Corporate Documentation**
+**DNS Stack Private Limited - Utility Server Legal & Corporate Documentation**
+
+**Company**: DNS Stack Private Limited  
+**CIN**: U62099UP2025PTC223463  
+**Product Brand**: Utility Server (SPIDER, RHINO, MARLIN)  
+**Website**: https://www.dnsstack.com
 
 ---
 
 ## Overview
 
-This folder contains all legal policies, agreements, and compliance documentation for Utility Server's web performance optimization services.
+This folder contains all legal policies, agreements, and compliance documentation for Utility Server's web performance optimization services, provided by DNS Stack Private Limited.
+
+**Utility Server** is a product of **DNS Stack Private Limited**, an Indian company specializing in AI-powered web performance optimization tools.
+
+**Subsidiary**: Techtonic Systems Media and Research LLC (https://techtonic.systems) is a subsidiary of DNS Stack Private Limited.
+
+---
+
+## ⚠️ IMPORTANT: Automatic Agreement
+
+**BY USING UTILITY SERVER SERVICES, YOU AUTOMATICALLY AGREE TO ALL DOCUMENTS IN THIS REPOSITORY:**
+
+✅ Terms and Conditions  
+✅ Privacy Policy  
+✅ Service Level Agreement (SLA)  
+✅ Disclaimer  
+✅ Non-Disclosure Agreement (NDA)  
+✅ All other policies referenced herein
+
+**Your registration for or use of Utility Server services constitutes your acceptance of these agreements. No separate signature is required.**
+
+---
+
+## 🔒 Data Processing Notice
+
+**Utility Server processes ONLY publicly available data from your website.**
+
+When you onboard to Utility Server services, you explicitly consent to:
+- Access and processing of your public website content
+- Caching and optimization of publicly accessible pages
+- Analysis for performance improvements
+- Processing necessary to deliver our services
+
+**We do NOT access:**
+- Password-protected content
+- Private user data
+- Non-public information
+- Any data beyond what is publicly available on your website
 
 ---
 
@@ -177,13 +219,18 @@ This folder contains all legal policies, agreements, and compliance documentatio
 | Data Protection Officer (GDPR) | dpo@utility-server.com |
 | Abuse Reports | abuse@utility-server.com |
 
-### Mailing Address
+### Contact Address
 ```
-Utility Server
-Legal Department
-[Insert Complete Address]
-[City, State/Province, ZIP]
-[Country]
+DNS Stack Private Limited
+Utility Server - Legal Department
+2nd Floor, Kalkat Bhawan
+Punjab Innovation Mission, Gmada Aerocity
+SAS Nagar, Mohali, Punjab - 140306
+India
+
+CIN: U62099UP2025PTC223463
+Website: https://www.dnsstack.com
+Subsidiary: Techtonic Systems Media and Research LLC (https://techtonic.systems)
 ```
 
 ---
@@ -335,7 +382,7 @@ We welcome feedback on our legal documents:
 
 ## 📅 Last Updated
 
-**Repository**: December 2024  
+**Repository**: November 6, 2025  
 **Individual Documents**: See each document for specific dates
 
 ---
@@ -355,4 +402,5 @@ We welcome feedback on our legal documents:
 
 *For questions about these documents or our legal policies, contact legal@utility-server.com*
 
-*© 2024 Utility Server. All rights reserved.*
+*© 2024-2025 DNS Stack Private Limited. All rights reserved.
+Utility Server is a product of DNS Stack Private Limited.*
