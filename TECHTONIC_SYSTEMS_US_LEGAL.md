@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://customer-assets.emergentagent.com/job_api-legal-hub/artifacts/1fjsrc03_logo-4X.png" alt="Utility Server Logo" width="200"/>
+</p>
+
 # Techtonic Systems Media and Research LLC - Legal Information
 
 **Last Updated:** November 6, 2025  
@@ -145,11 +149,11 @@ Utility-Server is a software product developed, owned, and maintained by **DNS S
 
 ### 7.2 Terms of Service
 By using services through Techtonic Systems Media and Research LLC, users automatically agree to:
-- [Terms and Conditions](./TERMS_AND_CONDITIONS.md)
-- [Privacy Policy](./PRIVACY_POLICY.md)
-- [Disclaimer](./DISCLAIMER.md)
-- [Service Level Agreement (SLA)](./SLA.md)
-- [Non-Disclosure Agreement (NDA)](./NDA.md)
+- [Terms and Conditions](https://documents.utility-server.com/TERMS_AND_CONDITIONS.md)
+- [Privacy Policy](https://documents.utility-server.com/PRIVACY_POLICY.md)
+- [Disclaimer](https://documents.utility-server.com/DISCLAIMER.md)
+- [Service Level Agreement (SLA)](https://documents.utility-server.com/SLA.md)
+- [Non-Disclosure Agreement (NDA)](https://documents.utility-server.com/NDA.md)
 
 All these documents are maintained by DNS Stack Private Limited and apply to all Utility-Server users globally.
 
@@ -225,7 +229,7 @@ Maximum liability under any circumstances is limited to the amount paid by the u
 ## 12. Privacy & Data Security
 
 ### 12.1 Privacy Policy
-Data handling practices are governed by the [Privacy Policy](./PRIVACY_POLICY.md) maintained by DNS Stack Private Limited.
+Data handling practices are governed by the [Privacy Policy](https://documents.utility-server.com/PRIVACY_POLICY.md) maintained by DNS Stack Private Limited.
 
 ### 12.2 Data Security
 Utility-Server implements industry-standard security measures. However:
@@ -301,4 +305,4 @@ On behalf of Techtonic Systems Media and Research LLC
 
 ---
 
-*This document is part of the comprehensive legal framework for Utility-Server. For complete terms, please review all documents in the [legal-documents](./README.md) folder.*
+*This document is part of the comprehensive legal framework for Utility-Server. For complete terms, please review all documents at [https://documents.utility-server.com/](https://documents.utility-server.com/).*

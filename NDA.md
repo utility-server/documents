@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://customer-assets.emergentagent.com/job_api-legal-hub/artifacts/1fjsrc03_logo-4X.png" alt="Utility Server Logo" width="200"/>
+</p>
+
 # Non-Disclosure Agreement (NDA)
 
 **Utility Server - User Confidentiality Agreement**
