@@ -2,6 +2,12 @@
   <img src="https://customer-assets.emergentagent.com/job_api-legal-hub/artifacts/1fjsrc03_logo-4X.png" alt="Utility Server Logo" width="200"/>
 </p>
 
+---
+
+**Navigation:** [🏠 Legal Home](https://documents.utility-server.com/) | [📜 Philosophy](https://documents.utility-server.com/PHILOSOPHY.html) | [📋 Terms](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) | [🔒 Privacy](https://documents.utility-server.com/PRIVACY_POLICY.html) | [⚠️ Disclaimer](https://documents.utility-server.com/DISCLAIMER.html) | [🤝 NDA](https://documents.utility-server.com/NDA.html) | [⚖️ Legal](https://documents.utility-server.com/LEGAL.html) | [📊 SLA](https://documents.utility-server.com/SLA.html)
+
+---
+
 # Non-Disclosure Agreement (NDA)
 
 **Utility Server - User Confidentiality Agreement**

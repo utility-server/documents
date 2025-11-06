@@ -2,6 +2,12 @@
   <img src="https://customer-assets.emergentagent.com/job_api-legal-hub/artifacts/1fjsrc03_logo-4X.png" alt="Utility Server Logo" width="200"/>
 </p>
 
+---
+
+**Navigation:** [🏠 Legal Home](https://documents.utility-server.com/) | [📜 Philosophy](https://documents.utility-server.com/PHILOSOPHY.html) | [📋 Terms](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) | [🔒 Privacy](https://documents.utility-server.com/PRIVACY_POLICY.html) | [⚠️ Disclaimer](https://documents.utility-server.com/DISCLAIMER.html) | [🤝 NDA](https://documents.utility-server.com/NDA.html) | [⚖️ Legal](https://documents.utility-server.com/LEGAL.html) | [📊 SLA](https://documents.utility-server.com/SLA.html)
+
+---
+
 # Legal Documents
 
 **DNS Stack Private Limited - Utility Server Legal & Corporate Documentation**
@@ -92,7 +98,7 @@ Utility Server is a **white label solution** that may be sold through authorized
 
 ### Corporate Philosophy
 
-#### [PHILOSOPHY.md](https://documents.utility-server.com/PHILOSOPHY.html)
+#### [Philosophy](https://documents.utility-server.com/PHILOSOPHY.html)
 **Our Mission, Vision, Values & Principles**
 - Company purpose and mission statement
 - 7 core values with detailed explanations
@@ -105,7 +111,7 @@ Utility Server is a **white label solution** that may be sold through authorized
 
 ### Customer Agreements
 
-#### [TERMS_AND_CONDITIONS.md](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html)
+#### [Terms and Conditions](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html)
 **Service Agreement & Terms of Use**
 - 20 comprehensive sections
 - Account registration and security
@@ -117,7 +123,7 @@ Utility Server is a **white label solution** that may be sold through authorized
 - Warranties, disclaimers, and limitations
 - Indemnification and dispute resolution
 
-#### [SLA.md](https://documents.utility-server.com/SLA.html)
+#### [Service Level Agreement (SLA)](https://documents.utility-server.com/SLA.html)
 **Service Level Agreement**
 - Uptime commitments: 99.5% - 99.95% by tier
 - Performance targets and response times
@@ -130,7 +136,7 @@ Utility Server is a **white label solution** that may be sold through authorized
 
 ### Privacy & Data Protection
 
-#### [PRIVACY_POLICY.md](https://documents.utility-server.com/PRIVACY_POLICY.html)
+#### [Privacy Policy](https://documents.utility-server.com/PRIVACY_POLICY.html)
 **Comprehensive Privacy Policy**
 - GDPR, CCPA, LGPD, PIPEDA compliant
 - Information collection and usage
@@ -150,7 +156,7 @@ Utility Server is a **white label solution** that may be sold through authorized
 
 ### Legal Disclaimers
 
-#### [DISCLAIMER.md](https://documents.utility-server.com/DISCLAIMER.html)
+#### [Disclaimer](https://documents.utility-server.com/DISCLAIMER.html)
 **Limitations of Liability & Warranties**
 - 15 comprehensive sections
 - "AS IS" and "AS AVAILABLE" statements
@@ -167,7 +173,7 @@ Utility Server is a **white label solution** that may be sold through authorized
 
 ### Business Agreements
 
-#### [NDA.md](https://documents.utility-server.com/NDA.html)
+#### [Non-Disclosure Agreement (NDA)](https://documents.utility-server.com/NDA.html)
 **Non-Disclosure Agreement Template**
 - Mutual confidentiality agreement
 - For partners, vendors, and business relationships
@@ -182,7 +188,7 @@ Utility Server is a **white label solution** that may be sold through authorized
 
 ### Compliance & Regulatory
 
-#### [LEGAL.md](https://documents.utility-server.com/LEGAL.html)
+#### [Legal Information](https://documents.utility-server.com/LEGAL.html)
 **Legal Compliance Information**
 - Company registration and tax information
 - Intellectual property portfolio:
@@ -205,7 +211,7 @@ Utility Server is a **white label solution** that may be sold through authorized
 - DMCA procedures
 - Legal request handling
 
-#### [TECHTONIC_SYSTEMS_US_LEGAL.md](https://documents.utility-server.com/TECHTONIC_SYSTEMS_US_LEGAL.html)
+#### [Techtonic Systems US Legal Information](https://documents.utility-server.com/TECHTONIC_SYSTEMS_US_LEGAL.html)
 **Techtonic Systems Media and Research LLC - US Legal Information**
 - Complete company information and formation details
 - Corporate structure (subsidiary of DNS Stack Private Limited)
@@ -225,31 +231,31 @@ Utility Server is a **white label solution** that may be sold through authorized
 
 ### For Customers
 **Read Before Using Services:**
-1. [TERMS_AND_CONDITIONS.md](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) - Your agreement with us
-2. [PRIVACY_POLICY.md](https://documents.utility-server.com/PRIVACY_POLICY.html) - How we handle your data
-3. [SLA.md](https://documents.utility-server.com/SLA.html) - Our service commitments
-4. [DISCLAIMER.md](https://documents.utility-server.com/DISCLAIMER.html) - Important limitations
+1. [Terms and Conditions](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) - Your agreement with us
+2. [Privacy Policy](https://documents.utility-server.com/PRIVACY_POLICY.html) - How we handle your data
+3. [SLA](https://documents.utility-server.com/SLA.html) - Our service commitments
+4. [Disclaimer](https://documents.utility-server.com/DISCLAIMER.html) - Important limitations
 
 ### For Partners & Vendors
 **Business Relationships:**
-1. [NDA.md](https://documents.utility-server.com/NDA.html) - Confidentiality agreement
-2. [LEGAL.md](https://documents.utility-server.com/LEGAL.html) - Company and IP information
-3. [TERMS_AND_CONDITIONS.md](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) - Business terms
+1. [NDA](https://documents.utility-server.com/NDA.html) - Confidentiality agreement
+2. [Legal](https://documents.utility-server.com/LEGAL.html) - Company and IP information
+3. [Terms and Conditions](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) - Business terms
 
 ### For Legal & Compliance Teams
 **Due Diligence:**
-1. [LEGAL.md](https://documents.utility-server.com/LEGAL.html) - Compliance certifications
-2. [TECHTONIC_SYSTEMS_US_LEGAL.md](https://documents.utility-server.com/TECHTONIC_SYSTEMS_US_LEGAL.html) - US subsidiary legal information
-3. [PRIVACY_POLICY.md](https://documents.utility-server.com/PRIVACY_POLICY.html) - Data protection practices
-4. [TERMS_AND_CONDITIONS.md](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) - Legal framework
-5. [SLA.md](https://documents.utility-server.com/SLA.html) - Service commitments
+1. [Legal](https://documents.utility-server.com/LEGAL.html) - Compliance certifications
+2. [Techtonic Systems US Legal](https://documents.utility-server.com/TECHTONIC_SYSTEMS_US_LEGAL.html) - US subsidiary legal information
+3. [Privacy Policy](https://documents.utility-server.com/PRIVACY_POLICY.html) - Data protection practices
+4. [Terms and Conditions](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) - Legal framework
+5. [SLA](https://documents.utility-server.com/SLA.html) - Service commitments
 
 ### For Regulators
 **Regulatory Review:**
-1. [LEGAL.md](https://documents.utility-server.com/LEGAL.html) - Compliance overview
-2. [TECHTONIC_SYSTEMS_US_LEGAL.md](https://documents.utility-server.com/TECHTONIC_SYSTEMS_US_LEGAL.html) - US operations and jurisdiction
-3. [PRIVACY_POLICY.md](https://documents.utility-server.com/PRIVACY_POLICY.html) - Privacy practices
-4. [TERMS_AND_CONDITIONS.md](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) - User agreements
+1. [Legal](https://documents.utility-server.com/LEGAL.html) - Compliance overview
+2. [Techtonic Systems US Legal](https://documents.utility-server.com/TECHTONIC_SYSTEMS_US_LEGAL.html) - US operations and jurisdiction
+3. [Privacy Policy](https://documents.utility-server.com/PRIVACY_POLICY.html) - Privacy practices
+4. [Terms and Conditions](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) - User agreements
 
 ---
 
@@ -345,23 +351,23 @@ Material changes are communicated via:
 ## 📖 How to Use These Documents
 
 ### Reading Order for New Users
-1. Start with [PHILOSOPHY.md](./PHILOSOPHY.html) to understand our values
-2. Read [TERMS_AND_CONDITIONS.md](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) before using services
-3. Review [PRIVACY_POLICY.md](https://documents.utility-server.com/PRIVACY_POLICY.html) to understand data practices
-4. Check [SLA.md](https://documents.utility-server.com/SLA.html) for service commitments
-5. Read [DISCLAIMER.md](https://documents.utility-server.com/DISCLAIMER.html) for important limitations
+1. Start with [Philosophy](https://documents.utility-server.com/PHILOSOPHY.html) to understand our values
+2. Read [Terms and Conditions](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) before using services
+3. Review [Privacy Policy](https://documents.utility-server.com/PRIVACY_POLICY.html) to understand data practices
+4. Check [SLA](https://documents.utility-server.com/SLA.html) for service commitments
+5. Read [Disclaimer](https://documents.utility-server.com/DISCLAIMER.html) for important limitations
 
 ### For US-Based Users or Partners
-1. [TECHTONIC_SYSTEMS_US_LEGAL.md](https://documents.utility-server.com/TECHTONIC_SYSTEMS_US_LEGAL.html) - US operations and legal framework
+1. [Techtonic Systems US Legal](https://documents.utility-server.com/TECHTONIC_SYSTEMS_US_LEGAL.html) - US operations and legal framework
 2. Understand that all legal matters are handled in India by DNS Stack
 
 ### For Legal Review
-1. [LEGAL.md](https://documents.utility-server.com/LEGAL.html) - Compliance overview
-2. [TECHTONIC_SYSTEMS_US_LEGAL.md](https://documents.utility-server.com/TECHTONIC_SYSTEMS_US_LEGAL.html) - US subsidiary information
-3. [TERMS_AND_CONDITIONS.md](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) - Legal framework
-4. [PRIVACY_POLICY.md](https://documents.utility-server.com/PRIVACY_POLICY.html) - Data protection
-5. [SLA.md](https://documents.utility-server.com/SLA.html) - Service commitments
-6. [NDA.md](https://documents.utility-server.com/NDA.html) - Confidentiality agreements
+1. [Legal](https://documents.utility-server.com/LEGAL.html) - Compliance overview
+2. [Techtonic Systems US Legal](https://documents.utility-server.com/TECHTONIC_SYSTEMS_US_LEGAL.html) - US subsidiary information
+3. [Terms and Conditions](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) - Legal framework
+4. [Privacy Policy](https://documents.utility-server.com/PRIVACY_POLICY.html) - Data protection
+5. [SLA](https://documents.utility-server.com/SLA.html) - Service commitments
+6. [NDA](https://documents.utility-server.com/NDA.html) - Confidentiality agreements
 
 ---
 
@@ -373,7 +379,7 @@ Material changes are communicated via:
 3. Work in good faith to resolve issues
 
 ### Formal Disputes
-See [TERMS_AND_CONDITIONS.md](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) Section 19 for:
+See [Terms and Conditions](https://documents.utility-server.com/TERMS_AND_CONDITIONS.html) Section 19 for:
 - Governing law
 - Arbitration procedures
 - Jurisdiction and venue
@@ -389,18 +395,18 @@ See [TERMS_AND_CONDITIONS.md](https://documents.utility-server.com/TERMS_AND_CON
 
 ### Requesting an NDA
 **Email**: nda@utility-server.com  
-**Template**: [NDA.md](https://documents.utility-server.com/NDA.html)
+**Template**: [NDA](https://documents.utility-server.com/NDA.html)
 
 ### Legal Requests
 **Email**: legal-requests@utility-server.com  
-**Process**: See [LEGAL.md](https://documents.utility-server.com/LEGAL.html) Section 11
+**Process**: See [Legal](https://documents.utility-server.com/LEGAL.html) Section 11
 
 ---
 
 ## 🌐 International Users
 
 ### Data Protection Rights
-See [PRIVACY_POLICY.md](https://documents.utility-server.com/PRIVACY_POLICY.html) Section 14 for regional-specific provisions:
+See [Privacy Policy](https://documents.utility-server.com/PRIVACY_POLICY.html) Section 14 for regional-specific provisions:
 - EU/EEA residents (GDPR)
 - UK residents (UK GDPR)
 - California residents (CCPA/CPRA)
@@ -409,7 +415,7 @@ See [PRIVACY_POLICY.md](https://documents.utility-server.com/PRIVACY_POLICY.html
 - Australian residents (Privacy Act)
 
 ### Export Control
-See [LEGAL.md](https://documents.utility-server.com/LEGAL.html) Section 6 for:
+See [Legal](https://documents.utility-server.com/LEGAL.html) Section 6 for:
 - Export compliance
 - Restricted countries
 - User obligations
