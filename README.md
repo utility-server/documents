@@ -201,6 +201,20 @@ Utility Server is a **white label solution** that may be sold through authorized
 - DMCA procedures
 - Legal request handling
 
+#### [TECHTONIC_SYSTEMS_US_LEGAL.md](./TECHTONIC_SYSTEMS_US_LEGAL.md)
+**Techtonic Systems Media and Research LLC - US Legal Information**
+- Complete company information and formation details
+- Corporate structure (subsidiary of DNS Stack Private Limited)
+- **Legal jurisdiction**: All matters handled by DNS Stack in India
+- US LLC compliance (Wyoming)
+- EU/GDPR compliance framework
+- International operations and global compliance
+- Channel partner and white-label disclaimers
+- Payment processing disclaimers
+- Intellectual property ownership
+- Multi-jurisdictional legal framework
+- Contact information for legal matters
+
 ---
 
 ## 🎯 Document Purpose Guide
@@ -221,15 +235,17 @@ Utility Server is a **white label solution** that may be sold through authorized
 ### For Legal & Compliance Teams
 **Due Diligence:**
 1. [LEGAL.md](./LEGAL.md) - Compliance certifications
-2. [PRIVACY_POLICY.md](./PRIVACY_POLICY.md) - Data protection practices
-3. [TERMS_AND_CONDITIONS.md](./TERMS_AND_CONDITIONS.md) - Legal framework
-4. [SLA.md](./SLA.md) - Service commitments
+2. [TECHTONIC_SYSTEMS_US_LEGAL.md](./TECHTONIC_SYSTEMS_US_LEGAL.md) - US subsidiary legal information
+3. [PRIVACY_POLICY.md](./PRIVACY_POLICY.md) - Data protection practices
+4. [TERMS_AND_CONDITIONS.md](./TERMS_AND_CONDITIONS.md) - Legal framework
+5. [SLA.md](./SLA.md) - Service commitments
 
 ### For Regulators
 **Regulatory Review:**
 1. [LEGAL.md](./LEGAL.md) - Compliance overview
-2. [PRIVACY_POLICY.md](./PRIVACY_POLICY.md) - Privacy practices
-3. [TERMS_AND_CONDITIONS.md](./TERMS_AND_CONDITIONS.md) - User agreements
+2. [TECHTONIC_SYSTEMS_US_LEGAL.md](./TECHTONIC_SYSTEMS_US_LEGAL.md) - US operations and jurisdiction
+3. [PRIVACY_POLICY.md](./PRIVACY_POLICY.md) - Privacy practices
+4. [TERMS_AND_CONDITIONS.md](./TERMS_AND_CONDITIONS.md) - User agreements
 
 ---
 
@@ -331,12 +347,17 @@ Material changes are communicated via:
 4. Check [SLA.md](./SLA.md) for service commitments
 5. Read [DISCLAIMER.md](./DISCLAIMER.md) for important limitations
 
+### For US-Based Users or Partners
+1. [TECHTONIC_SYSTEMS_US_LEGAL.md](./TECHTONIC_SYSTEMS_US_LEGAL.md) - US operations and legal framework
+2. Understand that all legal matters are handled in India by DNS Stack
+
 ### For Legal Review
 1. [LEGAL.md](./LEGAL.md) - Compliance overview
-2. [TERMS_AND_CONDITIONS.md](./TERMS_AND_CONDITIONS.md) - Legal framework
-3. [PRIVACY_POLICY.md](./PRIVACY_POLICY.md) - Data protection
-4. [SLA.md](./SLA.md) - Service commitments
-5. [NDA.md](./NDA.md) - Confidentiality agreements
+2. [TECHTONIC_SYSTEMS_US_LEGAL.md](./TECHTONIC_SYSTEMS_US_LEGAL.md) - US subsidiary information
+3. [TERMS_AND_CONDITIONS.md](./TERMS_AND_CONDITIONS.md) - Legal framework
+4. [PRIVACY_POLICY.md](./PRIVACY_POLICY.md) - Data protection
+5. [SLA.md](./SLA.md) - Service commitments
+6. [NDA.md](./NDA.md) - Confidentiality agreements
 
 ---
 
