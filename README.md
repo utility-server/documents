@@ -49,6 +49,38 @@ When you onboard to Utility Server services, you explicitly consent to:
 - Private user data
 - Non-public information
 - Any data beyond what is publicly available on your website
+- **Payment card information** (handled by payment gateway partners)
+
+---
+
+## 💳 Payment Processing
+
+**⚠️ NO PAYMENT DATA ON OUR SERVERS:**
+
+Utility Server and DNS Stack Private Limited **DO NOT** process, store, or have access to any payment information. All payment processing is handled by:
+- Stripe (PCI-DSS Level 1 compliant)
+- Other authorized payment gateway partners
+
+Your payment information goes directly to the payment gateway and is never stored on our servers.
+
+---
+
+## 🤝 Channel Partner & White Label Model
+
+**⚠️ IMPORTANT - DISTRIBUTION MODEL:**
+
+Utility Server is a **white label solution** that may be sold through authorized channel partners (resellers, distributors, system integrators).
+
+**If you purchased through a channel partner**:
+- You are subject to both our terms AND your channel partner's terms
+- Billing and contracts are handled by your channel partner
+- Service delivery is provided by DNS Stack Private Limited
+
+**We are NOT responsible for**:
+- Channel partners' business practices or pricing
+- Channel partners' client relationships
+- Channel partners' support or service delivery processes
+- Disputes between channel partners and their clients
 
 ---
 

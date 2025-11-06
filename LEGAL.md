@@ -64,19 +64,45 @@ India
 - https://techtonic.systems (Subsidiary - Techtonic Systems Media and Research LLC)
 
 **Subsidiary Companies**:
-- **Techtonic Systems Media and Research LLC** (https://techtonic.systems) - Media and research subsidiary of DNS Stack Private Limited
+- **Techtonic Systems Media and Research LLC**
+  - Website: https://techtonic.systems
+  - Formation Date: January 22, 2024
+  - EIN: 61-2147769
+  - Type: Limited Liability Company (LLC)
+  - Jurisdiction: Texas, United States
+  - Address: 701 Tillery St, Unit 12, Austin, TX 78702, USA
+  - Business: Media and research subsidiary of DNS Stack Private Limited
+  - Sole Member: Rajneesh Maurya
 
-### 1.2 Tax Information
+### 1.2 Tax Information (DNS Stack Private Limited)
 
 **Corporate Identification Number (CIN)**: U62099UP2025PTC223463
 
-**PAN (Permanent Account Number)**: [To be provided]
+**PAN (Permanent Account Number)**: AALCD6871C
 
-**GST Registration Number**: [To be provided]
+**GST Registration Number**: 03AALCD6871C1ZR
 
 **Jurisdictions where registered for tax**: India
 
 **Industry Classification**: Computer Programming, Consultancy and Related Activities (NIC Code: 62099)
+
+### 1.3 Subsidiary Tax Information (Techtonic Systems Media and Research LLC)
+
+**Company Name**: Techtonic Systems Media and Research LLC
+
+**Formation Date**: January 22, 2024
+
+**EIN (Employer Identification Number)**: 61-2147769
+
+**Type**: Limited Liability Company (LLC)
+
+**Jurisdiction**: United States (Texas)
+
+**Registered Address**: 701 Tillery St, Unit 12, Austin, TX 78702, USA
+
+**Business Type**: Media and Research
+
+**Sole Member**: Rajneesh Maurya
 
 ### 1.3 Business Licenses
 
@@ -86,30 +112,68 @@ Utility Server maintains all necessary business licenses and permits required to
 - Technology service provider registrations
 - International business registrations (where applicable)
 
+### 1.4 Business Model - White Label & Channel Partners
+
+**Distribution Model**: Utility Server operates as a **white label solution** distributed through:
+1. Direct sales by DNS Stack Private Limited
+2. Authorized channel partners (resellers, distributors, system integrators)
+
+**Channel Partner Framework**:
+- Channel partners are authorized to resell and rebrand Utility Server services
+- Channel partners must comply with our service standards and these legal documents
+- Channel partners operate independently in their client relationships
+
+**⚠️ LIMITATION OF RESPONSIBILITY:**
+
+**DNS Stack Private Limited is NOT responsible for**:
+- Channel partners' business operations, pricing, or billing practices
+- Channel partners' client relationships and service delivery processes
+- Channel partners' compliance with their local regulations
+- Channel partners' data handling outside our service scope
+- Channel partners' marketing, sales, or support practices
+- Disputes between channel partners and their clients
+
+**Service Delivery**: The core Utility Server technology and service is provided by DNS Stack Private Limited regardless of the sales channel.
+
+### 1.5 Payment Processing
+
+**⚠️ NO PAYMENT INFORMATION PROCESSED OR STORED:**
+
+**DNS Stack Private Limited and Utility Server DO NOT**:
+- Process payment transactions on our servers
+- Store credit card or banking information
+- Have access to complete payment credentials
+
+**Payment Gateway Partners**:
+All payment processing is handled exclusively by:
+- Stripe (PCI-DSS Level 1 compliant)
+- Other authorized PCI-compliant payment gateway partners
+
+**What We Receive**:
+- Transaction confirmation (success/failure)
+- Transaction ID for reference
+- Basic billing information (amount, date)
+- NO payment card details or banking credentials
+
 ---
 
 ## 2. Intellectual Property
 
-### 2.1 Trademarks
+### 2.1 Brand Names and Service Marks
 
-**Registered Trademarks**:
+**Brand Names** (Unregistered - Common Law Rights):
 
-- **DNS STACK™** - Parent company trademark (owned by DNS Stack Private Limited)
-- **UTILITY SERVER™** - Product brand trademark
-- **SPIDER™** - Prerendering service trademark
-- **RHINO™** - Edge caching service trademark
-- **MARLIN™** (also known as MERLIN™) - Image optimization service trademark
-- **Utility Client™** - CLI tool trademark
+- **DNS STACK** - Parent company brand
+- **UTILITY SERVER** - Product brand
+- **SPIDER** - Prerendering service name
+- **RHINO** - Edge caching service name
+- **MARLIN** - Image optimization service name
+- **Utility Client** - CLI tool name
+- **Techtonic Systems** - Subsidiary brand
 
-**Trademark Owner**: DNS Stack Private Limited
+**Status**: These are proprietary brand names and service identifiers owned by DNS Stack Private Limited and its subsidiary. While not currently registered as trademarks, they are protected under common law and business name registrations.
 
-**Trademark Status**: Common Law Rights / Pending Registration
-
-**Trademark Classes**: International Class 42 (Computer and scientific services), Class 9 (Computer software)
-
-**Jurisdictions**: India (primary), International expansion in progress
-
-**Trademark Notice**: All trademarks, service marks, and logos used on our website and in connection with our services are either trademarks or registered trademarks of Utility Server or third parties. Unauthorized use is strictly prohibited.
+**Notice**: All brand names, service names, and logos used on our website and in connection with our services are proprietary to DNS Stack Private Limited or its subsidiary, Techtonic Systems Media and Research LLC. Unauthorized use is strictly prohibited.
 
 ### 2.2 Copyrights
 
@@ -130,14 +194,11 @@ Utility Server is a product of DNS Stack Private Limited.
 
 **Copyright Registration**: Selected works are registered with relevant copyright offices.
 
-### 2.3 Patents
+### 2.3 Proprietary Technology
 
-**Patent Portfolio** (if applicable):
-- [List any patents pending or granted]
-- [Technology areas covered]
-- [Jurisdictions]
+DNS Stack Private Limited and its Utility Server product line utilize proprietary technology and methodologies. While no patents are currently filed or registered, the company reserves all rights to its technological innovations, algorithms, and business methods.
 
-**Note**: Utility Server continues to innovate and may file additional patent applications for novel technologies.
+**Note**: DNS Stack Private Limited may file patent applications for novel technologies in the future as the business and technology evolve.
 
 ### 2.4 Trade Secrets
 
@@ -246,30 +307,31 @@ Available compliance reports:
 - Digital Millennium Copyright Act (DMCA)
 - CAN-SPAM Act
 - Federal Trade Commission Act
-- Telecommunications Act
 
 **State Regulations**:
-- California Consumer Privacy Act (CCPA)
-- California Privacy Rights Act (CPRA)
-- Virginia Consumer Data Protection Act (VCDPA)
-- Colorado Privacy Act (CPA)
-- Other state-specific privacy laws
 
-**Sector-Specific** (if applicable):
-- HIPAA (for healthcare-related services)
-- GLBA (for financial services)
-- FERPA (for educational institutions)
-- COPPA (children's privacy)
+**Important Note**: Since Utility Server processes ONLY publicly available website data (not personal information of individual users), most consumer privacy laws such as CCPA/CPRA do not apply to our core service operations. These laws regulate the collection and processing of personal information of consumers, which we do not collect through our optimization services.
+
+However, for customer account information (our direct customers), we comply with:
+- Data security requirements
+- Transparent privacy practices
+- Account information protection
+
+**Sector-Specific**: Not applicable - we do not process healthcare data (HIPAA), financial data (GLBA), educational records (FERPA), or children's data (COPPA).
 
 ### 4.2 European Union Compliance
 
 **General Data Protection Regulation (GDPR)**:
-- Lawful basis for processing: Contract, Legitimate Interest, Consent
+
+**Important Note**: Utility Server processes ONLY publicly available data from websites. Since we do not collect, process, or store personal data of EU residents or any individual users (we only cache public web pages), most GDPR requirements related to personal data protection do not apply to our core operations.
+
+However, for customer account information, we maintain:
+- Lawful basis for processing: Contract, Legitimate Interest
 - Data Protection Officer: dpo@utility-server.com
-- EU Representative (if applicable): [Contact information]
-- Data processing agreements available
 - Privacy by design and default
-- Data protection impact assessments conducted
+- Customer data security measures
+
+**Public Data Processing**: As we only process public website content (HTML, CSS, JavaScript, images) that is already publicly accessible on the internet, this does not constitute personal data processing under GDPR Article 4.
 
 **ePrivacy Directive**:
 - Cookie consent mechanisms

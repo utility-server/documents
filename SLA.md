@@ -2,7 +2,7 @@
 
 **Utility Server Service Level Agreement**
 
-**Effective Date**: November 6, 2025  
+**Effective Date**: May 8, 2025 (DNS Stack Private Limited incorporation date)  
 **Last Updated**: November 6, 2025
 
 ---

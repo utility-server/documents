@@ -2,7 +2,7 @@
 
 **Utility Server Privacy Policy**
 
-**Effective Date**: November 6, 2025  
+**Effective Date**: May 8, 2025 (DNS Stack Private Limited incorporation date)  
 **Last Updated**: November 6, 2025
 
 ---
@@ -10,6 +10,14 @@
 ## Our Commitment to Privacy
 
 At Utility Server, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our services, including SPIDER, RHINO, MARLIN, Utility Client, and associated platforms.
+
+**⚠️ IMPORTANT DISTINCTION**:
+
+This Privacy Policy covers:
+1. **Customer Account Information**: Data we collect about YOU (our customer) - name, email, payment info, etc.
+2. **Website Service Data**: How we handle YOUR website's publicly available content
+
+**What We DO NOT Collect**: We do not collect, process, or have access to personal information of YOUR website visitors or end users. We only process publicly available website content (HTML, CSS, JavaScript, images) that is already accessible to anyone on the internet.
 
 **Our Privacy Principles:**
 - **Transparency**: We are clear about what data we collect and why
@@ -80,8 +88,29 @@ SAS Nagar, Mohali, Punjab - 140306, India
 - Private user data from your website visitors
 - Non-public information without explicit authorization
 - Any data beyond what is publicly accessible
+- **Payment card information or banking details** (handled by payment gateway partners)
 
 **Your Consent**: Registering for or using Utility Server services constitutes your explicit, informed consent to data processing as described in this policy.
+
+### 1.4 Channel Partner Distribution Model
+
+**⚠️ IMPORTANT - WHITE LABEL & CHANNEL PARTNERS:**
+
+Utility Server is distributed as a **white label solution through authorized channel partners**. 
+
+**What This Means**:
+- You may purchase Utility Server services through our channel partners
+- Channel partners are bound by these documents and our requirements
+- **We are NOT responsible for**:
+  - Channel partners' business processes or practices
+  - Channel partners' relationships with their end clients
+  - Channel partners' pricing or billing practices
+  - Channel partners' support or service delivery
+  - Channel partners' data handling beyond our service scope
+
+**Direct Customers vs. Channel Partner Clients**:
+- If you purchase directly from DNS Stack/Utility Server: These terms apply directly to you
+- If you purchase through a channel partner: You are subject to both these terms AND your channel partner's terms
 
 If you do not agree, please do not use our Services.
 
@@ -103,11 +132,17 @@ When you create an account, we collect:
 
 **Payment Information:**
 When you subscribe to paid services:
-- Credit card information (processed securely by Stripe)
 - Billing name and address
 - Payment history and invoices
 
-Note: We do not store full credit card numbers on our servers. Payment processing is handled by PCI-compliant third-party processors.
+**⚠️ IMPORTANT - PAYMENT PROCESSING:**
+**Utility Server and DNS Stack Private Limited DO NOT process, store, or have access to any payment card information, banking details, or financial credentials on our servers.**
+
+All payment processing is handled exclusively by our PCI-DSS compliant payment gateway partners including:
+- Stripe
+- Other authorized payment processors
+
+Payment information is collected and stored solely by these payment gateway partners on their secure infrastructure. We only receive transaction confirmation and basic billing information necessary for account management.
 
 **Communication Information:**
 When you contact us:

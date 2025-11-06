@@ -19,7 +19,11 @@ By registering for, accessing, or using any Utility Server service (SPIDER, RHIN
 
 **User**: Every person or entity that registers for or uses Utility Server services
 
-**Effective Date**: Immediately upon your first use of Utility Server services
+**Effective Date**: Upon your first use of Utility Server services
+
+**Corporate Formation Dates**:
+- Techtonic Systems Media and Research LLC: January 22, 2024
+- DNS Stack Private Limited: May 8, 2025
 
 ---
 

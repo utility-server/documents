@@ -2,7 +2,7 @@
 
 **Utility Server Services Disclaimer**
 
-**Effective Date**: November 6, 2025  
+**Effective Date**: May 8, 2025 (DNS Stack Private Limited incorporation date)  
 **Last Updated**: November 6, 2025
 
 ---
@@ -256,10 +256,13 @@ You acknowledge that:
 Utility Server Services may rely on or integrate with third-party services, including:
 - Cloud infrastructure providers
 - CDN services
-- Payment processors
+- Payment processors (Stripe and others)
 - DNS providers
 - Certificate authorities
 - Monitoring and analytics services
+
+**Payment Processing Disclaimer**:
+All payment processing is handled by third-party PCI-DSS compliant payment gateway partners. We do not process, store, or have access to payment card information. Any payment processing issues, security concerns, or disputes related to payment transactions should be directed to the payment gateway partner.
 
 ### 6.2 No Control Over Third Parties
 
@@ -269,6 +272,30 @@ We are NOT responsible for:
 - Security breaches or data losses by third parties
 - Terms, policies, or practices of third-party providers
 - Compatibility issues with third-party services
+- Payment gateway processing issues or failures
+- Payment transaction disputes or chargebacks
+
+### 6.5 Channel Partners Disclaimer
+
+**⚠️ WHITE LABEL & CHANNEL PARTNER DISCLAIMER:**
+
+Utility Server may be sold through authorized channel partners (resellers, distributors, integrators) as a white label solution.
+
+**WE ARE NOT RESPONSIBLE FOR:**
+- Channel partners' business practices or operations
+- Channel partners' pricing, billing, or payment collection
+- Channel partners' client relationships or service agreements
+- Channel partners' support quality or response times
+- Channel partners' marketing claims or representations
+- Channel partners' compliance with local laws and regulations
+- Channel partners' data handling outside our service scope
+- Disputes between channel partners and their clients
+- Channel partners' financial stability or business continuity
+
+**Your Recourse**:
+- Service-related issues: Contact DNS Stack/Utility Server directly
+- Billing/contract issues with channel partner: Contact your channel partner
+- Service delivery is ultimately provided by DNS Stack Private Limited
 
 ### 6.3 Third-Party Links
 

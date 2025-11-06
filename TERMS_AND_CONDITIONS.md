@@ -2,7 +2,7 @@
 
 **Utility Server Services Agreement**
 
-**Effective Date**: November 6, 2025  
+**Effective Date**: May 8, 2025 (DNS Stack Private Limited incorporation date)  
 **Last Updated**: November 6, 2025
 
 ---
@@ -98,7 +98,39 @@ For purposes of this Agreement:
 
 ## 3. Services Description
 
-### 3.1 SPIDER Services
+### 3.1 White Label Distribution & Channel Partners
+
+**⚠️ IMPORTANT - CHANNEL PARTNER MODEL:**
+
+Utility Server operates as a **white label solution** and may be distributed through **authorized channel partners**.
+
+**Distribution Models**:
+1. **Direct Sales**: You purchase directly from DNS Stack Private Limited / Utility Server
+2. **Channel Partner Sales**: You purchase through our authorized channel partners (resellers, distributors, integrators)
+
+**Channel Partner Terms**:
+- Channel partners are authorized to resell Utility Server services
+- Channel partners must comply with these Terms and our service requirements
+- Channel partners may rebrand the service under their own name (white label)
+
+**⚠️ LIMITATION OF LIABILITY - CHANNEL PARTNERS:**
+
+**DNS Stack Private Limited and Utility Server are NOT responsible for:**
+- Channel partners' business practices, pricing, or billing
+- Channel partners' relationships with their clients
+- Channel partners' support quality or response times
+- Channel partners' data handling outside of our service scope
+- Channel partners' compliance with their local regulations
+- Channel partners' marketing claims or representations
+- Disputes between channel partners and their clients
+
+**Your Relationship**:
+- **Direct Customers**: Your contract is with DNS Stack Private Limited
+- **Channel Partner Clients**: Your primary contract is with the channel partner; these Terms govern the Utility Server service delivery only
+
+**Service Delivery**: Regardless of purchase method, the Utility Server service is provided by DNS Stack Private Limited and subject to these Terms.
+
+### 3.2 SPIDER Services
 
 SPIDER provides prerendering and server-side rendering services for JavaScript-based websites, enabling search engine crawlers and bots to effectively index and understand your content.
 
@@ -108,7 +140,7 @@ SPIDER provides prerendering and server-side rendering services for JavaScript-b
 - Cached prerendered pages
 - Integration with major frameworks
 
-### 3.2 RHINO Services
+### 3.3 RHINO Services
 
 RHINO provides edge caching solutions for HTML content, delivering optimized, cached pages from edge locations for improved performance.
 
@@ -118,7 +150,7 @@ RHINO provides edge caching solutions for HTML content, delivering optimized, ca
 - TTL (Time to Live) configuration
 - Cache warmup capabilities
 
-### 3.3 MARLIN Services
+### 3.4 MARLIN Services
 
 MARLIN provides image optimization and CDN services, automatically optimizing images for different devices, formats, and quality settings.
 
@@ -128,11 +160,11 @@ MARLIN provides image optimization and CDN services, automatically optimizing im
 - Responsive image delivery
 - Global CDN distribution
 
-### 3.4 Utility Client
+### 3.5 Utility Client
 
 Utility Client is a command-line tool for managing Utility Server services, including configuration, monitoring, and administration.
 
-### 3.5 Service Evolution
+### 3.6 Service Evolution
 
 Utility Server may add, modify, or discontinue Services or features at any time. We will provide reasonable notice for material changes affecting existing functionality.
 
@@ -256,20 +288,36 @@ Utility Server monitors usage patterns to ensure fair use and service quality. W
 
 ## 7. Payment Terms
 
-### 7.1 Billing Cycle
+### 7.1 Payment Processing
+
+**⚠️ IMPORTANT - NO PAYMENT DATA STORED BY US:**
+
+**Utility Server and DNS Stack Private Limited DO NOT process, store, or have access to any payment information.**
+
+All payment processing is handled exclusively by our PCI-DSS compliant payment gateway partners:
+- Stripe
+- Other authorized payment processors
+
+**What This Means**:
+- Your payment card details are entered directly into the payment gateway's secure form
+- We never see or store your complete payment card numbers
+- Payment information is stored only by the payment gateway partner
+- We receive only transaction confirmations and basic billing information
+
+### 7.2 Billing Cycle
 
 Subscriptions are billed:
 - **Monthly**: On the same day each month
 - **Annually**: On the anniversary of your subscription date (if applicable)
 
-You authorize Utility Server to charge your provided payment method at the beginning of each billing cycle.
+You authorize our payment gateway partner to charge your provided payment method at the beginning of each billing cycle.
 
-### 7.2 Payment Methods
+### 7.3 Payment Methods
 
-We accept payment via:
-- Major credit cards (Visa, Mastercard, American Express)
-- Stripe payment processing
-- Other methods as specified on our website
+We accept payment via our authorized payment gateway partners:
+- Major credit cards (Visa, Mastercard, American Express) through Stripe
+- Other payment methods as specified on our website
+- All processing handled by PCI-DSS compliant payment gateway partners
 
 ### 7.3 Automatic Renewal
 
